@@ -14,7 +14,7 @@ import javafx.scene.paint.Color;
 
 /**
  *
- * @author William
+ * @author Symons
  */
 public class TrafficLights extends Application implements Runnable{
     
